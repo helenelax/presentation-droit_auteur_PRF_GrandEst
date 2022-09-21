@@ -1,5 +1,5 @@
 ---
-title: PRF Grand Est - droit d'auteur
+title: PRF Grand Est - droit d'auteur 2
 slideOptions:
   transition: fade
   theme:

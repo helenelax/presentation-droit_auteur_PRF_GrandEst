@@ -1,9 +1,9 @@
 ---
-title: PRF Grand Est - droit d'auteur 2
+title: PRF Grand Est - droit d'auteur et droit à l'image
 slideOptions:
   transition: fade
   theme:
-tags: DroitAuteur, github, 2022
+tags: DroitAuteur, DroitImage, github, 2022
 ---
 <!-- autres style : Black (default), White, League, Sky, Beige Simple, Serif, Blood, Night, Moon, Solarized -->
 <!-- transitions : none, fade, slide, convex, zoom -->
@@ -35,11 +35,11 @@ span.petit {
 
 ---
 
-![](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/avatar.png =300x)
+![](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/avatar.png =300x)
 
 ### Hélène Laxenaire
-22 eeptembre 2022  
-![](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/Institut-Agro-Montpellier_RVB.png =300x)
+22 septembre 2022  
+![](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/Institut-Agro-Montpellier_RVB.png =300x)
 <span class="petit"> CC - BY-SA 4.0 
 Note: je me présente
 
@@ -59,9 +59,11 @@ Note: donc n'hésitez pas à compléter voir à me contredire si je me trompe ! 
 * Ce que vous savez déjà ... et le reste
 * Quelques notions de base sur le droit d'auteur
 * Quels documents ai-je le droit d'utiliser ?
-* Où les trouver ?
-* Quelques ressources
+* Le droit à l'image
+* Où trouver des documents que je peux utiliser gratuitement ?
 * Réponses à vos questions 
+* Ressources complémentaires sur le droit d'auteur
+
 
 <!-- .slide: data-background="#FFFFFF" -->
 
@@ -69,7 +71,7 @@ Note: donc n'hésitez pas à compléter voir à me contredire si je me trompe ! 
 
 ## Ce que vous savez déjà ... et le reste
 
-* une chose que je sais déjà sur le droit d'auteur
+* une chose que je sais déjà sur le droit d'auteur et le droit à l'image
 * une question que je me pose
 
 Note: je leur demande de réfléchir puis je donne l'adresse du pad
@@ -78,7 +80,7 @@ Note: je leur demande de réfléchir puis je donne l'adresse du pad
 
 ---
 
-Et vous l'écrivez ici : https://acoustice.educagri.fr/mod/onlyoffice/view.php?id=27366
+Et vous l'écrivez ici : https://mensuel.pad.cdrflorac.fr/p/droits_auteurs_grand_Est
 
 Note: le mettre dans le chat
 
@@ -107,7 +109,7 @@ Note:
 
 ----
 
-![Euromaus](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/euro-maus.jpg)
+![Euromaus](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/euro-maus.jpg)
 
 <!-- .slide: data-background="#FFFFFF" -->
 
@@ -130,6 +132,7 @@ Note: personne ne peut rien faire sans l'autorisation de l'auteur
 * Droits voisins
 * Exceptions au droit d'auteur
 
+Note: il s'agit du sommaire de ce que je vais dire plus tard, ne pas commenter
 <!-- .slide: data-background="#FFFFFF" -->
 
 ---
@@ -138,7 +141,7 @@ Note: personne ne peut rien faire sans l'autorisation de l'auteur
 
 ## Droit moral
 L'auteur 
-<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_droit_moral_6G7PZqt.jpg"  data-background-repeat="repeat" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/background_droit_moral_6G7PZqt.jpg"  data-background-repeat="repeat" -->
 
 
 </div>
@@ -157,7 +160,7 @@ L'auteur
 Note:
 * divulgation : droit de 1ère présentation au public
 * retrait : doit supporter les frais le cas échéant
-<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_droit_moral_6G7PZqt.jpg"  data-background-repeat="repeat" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/background_droit_moral_6G7PZqt.jpg"  data-background-repeat="repeat" -->
 </div>
 
 ---
@@ -170,7 +173,7 @@ Note:
 * perpétuel
 * incessible
 
-<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_droit_moral_6G7PZqt.jpg"  data-background-repeat="repeat" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/background_droit_moral_6G7PZqt.jpg"  data-background-repeat="repeat" -->
 </div>
 
 ---
@@ -180,7 +183,7 @@ Note:
 ### Droit patrimonial
 L'usage et ... les revenus
 
-<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_droit_patrimoniaux_rzBpF1e.jpg" --> 
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/background_droit_patrimoniaux_rzBpF1e.jpg" --> 
 
 </div>
 
@@ -196,7 +199,23 @@ L'usage et ... les revenus
 Note: support numérique (scanner, télécharger) ou support physique
 mettre une image dans un diaporama participe de ce droit
 
-<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_droit_patrimoniaux_rzBpF1e.jpg" --> 
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/background_droit_patrimoniaux_rzBpF1e.jpg" --> 
+
+</div>
+
+---
+
+<div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;">
+
+### Les droits patrimoniaux
+* peuvent être cédés
+* s'éteignent 70 ans après la mort du dernier auteur 
+* l'oeuvre "tombe" alors dans le Domaine public  
+
+Note: on ne peut le mettre soi-même 
+Nuance pour fait de guerre : ex. Saint Ex
+
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/background_droit_patrimoniaux_rzBpF1e.jpg" --> 
 
 </div>
 
@@ -209,7 +228,7 @@ Les droits des interprètes
 
 Note: en France depuis 1985
 
-<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_droit_voisin_DP1UP7s.jpg" --> 
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/background_droit_voisin_DP1UP7s.jpg" --> 
 
 </div>
 
@@ -225,7 +244,7 @@ Note: en France depuis 1985
 
 Note: ne pas passer la diapo en dessous
 
-<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_exception_byweVTU.png" --> 
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/background_exception_byweVTU.png" --> 
 </div>
 
 ----
@@ -240,18 +259,19 @@ Note: ne pas passer la diapo en dessous
  * Handicap
  * Bibliothèques, musées, archives
 
-<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_exception_byweVTU.png" --> 
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/background_exception_byweVTU.png" --> 
 </div>
 
 ---
 
 ## Quiz
 
-### http://etc.ch/RacJ
+### http://etc.ch/PQTD
 Note: 
 * Si le lien n'est plus valable, créer un quiz avec les questions qui sont ici : [Mini-quizz droit d'auteur pour la présentation Canal SOS](/tUHMgPtQShCvYAzPMr5KbA)
-* J'actionne le sondage depuis ici : https://directpoll.com/c?XDVhEtDHmHNr5AsgvAxCLt5tRa6X5R
-* OUvrir la fenêtre des résulats mais ne partager l'écran que quand tout le monde a voté sur la question https://directpoll.com/r?XDbzPBd3ixYqg8foRwwKFX2ls70Ln8XQ6WxOpMo
+* J'affiche l'adresse et le QR Code avec cette page : https://directpoll.com/r?XDbzPBd3ixYqg8tFbDxBn6i9ELdmcrFuKtZzAoHqO mais comme c'est la page des résulats, je la laisse ouverte mais je ne la partage plus que lorsque tout el monde a voté
+* J'actionne le sondage depuis ici : https://directpoll.com/c?XDVhEtRiwYOidjY4HOadAcnNfE0Fi3XD
+* Ouvrir la fenêtre des résulats mais ne partager l'écran que quand tout le monde a voté sur la question https://directpoll.com/r?XDbzPBd3ixYqg8tFbDxBn6i9ELdmcrFuKtZzAoHqO
 <!-- .slide: data-background="#FFFFFF" -->
 
 ---
@@ -259,10 +279,11 @@ Note:
 ## Quels documents ai-je le droit d'utiliser ?
 * Ceux que j'ai produit
 * Domaine public
-* Licences libre de droits
+* Licences libres de droits
 * Licences Creatives Commons
 * Documents dont j'acquière les droits !
 
+Note: il s'agit du sommaire de ce que je vais dire plus tard, ne pas commenter
 <!-- .slide: data-background="#FFFFFF" -->
 
 ---
@@ -293,7 +314,7 @@ Nuance pour fait de guerre : ex. Saint Ex
 ## Les documents libres de droit
 * licence contractuelle entre les ayants-droits et les utilisateurs
 * varie selon les fournisseurs
-* payantes ou gratuites
+* payants ou gratuits
 
 :avocado: 
 
@@ -304,7 +325,7 @@ Note: peuvent être payantes (cas le plus courant)
 ---
 
 ## Les documents sous licences Creatives Commons
-![](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/logo_cc.png =100x)
+![](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/logo_cc.png =100x)
 
 Note: 2001
 Lawrence Lessig, Aaron Swartz
@@ -323,9 +344,10 @@ Lawrence Lessig, Aaron Swartz
 * j'indique le nom de la licence
 * qui correspond à un[ contrat valide en droit français](https://creativecommons.org/licenses/by/4.0/legalcode.fr)
 Note: dans certains pays il y a plus de licence CC
-Résumé de la licence : https://creativecommons.org/licenses/by/4.0/deed.fr
+Ex : Résumé de la licence CC By   : https://creativecommons.org/licenses/by/4.0/deed.fr
+    Et la licence complète : https://creativecommons.org/licenses/by/4.0/legalcode.fr
 
-<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/backgroundCC.png"  data-background-repeat="repeat" data-background-size="300px" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/backgroundCC.png"  data-background-repeat="repeat" data-background-size="300px" -->
 </div>
 </div>
 
@@ -336,7 +358,7 @@ Résumé de la licence : https://creativecommons.org/licenses/by/4.0/deed.fr
 * Toutes les licences permettent la libre diffusion
 * Toutes les licences obligent à citer l'auteur
 
-<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/backgroundCC.png"  data-background-repeat="repeat" data-background-size="300px" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/backgroundCC.png"  data-background-repeat="repeat" data-background-size="300px" -->
 </div>
 
 ---
@@ -351,7 +373,7 @@ Certaines licences obligent à :
 * mettre les documents modifiés sous la même licence que le document d'origine
 
 
-<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/backgroundCC.png"  data-background-repeat="repeat" data-background-size="300px" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/backgroundCC.png"  data-background-repeat="repeat" data-background-size="300px" -->
 </div>
 
 ---
@@ -362,12 +384,12 @@ Certaines licences obligent à :
 
 Note: je vous les présente et ensuite petit exercice pour voir comment ils s'organisent en licence
 
-<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/backgroundCC.png"  data-background-repeat="repeat" data-background-size="300px" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/backgroundCC.png"  data-background-repeat="repeat" data-background-size="300px" -->
 </div>
 
 ---
 
-![licence CC logo BY](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/logo_cc_by.png "licence CC logo BY")  
+![licence CC logo BY](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/logo_cc_by.png "licence CC logo BY")  
 * qui est l'auteur (BY)  
 *attribution*   
 * droit moral
@@ -379,7 +401,7 @@ Je pose la question : pourquoi ?
 
 ---
 
-![licence CC logo ND](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/logo_cc_nd.png "licence CC logo ND")  
+![licence CC logo ND](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/logo_cc_nd.png "licence CC logo ND")  
 * Pas de modification sans demander à l'auteur (ND)  
 *Non derivative*
 
@@ -387,7 +409,7 @@ Je pose la question : pourquoi ?
 
 ---
 
-![licence CC logo NC](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/logo_cc_nc.png "licence CC logo NC")  
+![licence CC logo NC](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/logo_cc_nc.png "licence CC logo NC")  
 * Pas d'utilisation commerciale sans demander à l'auteur (NC)  
 *Non commercial* 
 Note: pas de différence lucratif/commercial
@@ -396,22 +418,21 @@ Note: pas de différence lucratif/commercial
 
 ---
 
-![licence CC logo SA](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/logo_cc_sa.png "licence CC logo SA")  
+![licence CC logo SA](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/logo_cc_sa.png "licence CC logo SA")  
 * Partage avec la même licence pour l'oeuvre modifiée (SA)  
 *Share alike*
-Note: je fais les 6 licences en montrant les cartons des licences
+Note: **je fais les 6 licences en montrant les cartons des licences qui sont dans la pochette Atelier partage licence libre, je n'utilise pas les diapos ci-dessous**
 <!-- .slide: data-background="#FFFFFF" -->
 
 ---
 
 ## Comment on assemble tout cela !
 
-http://etc.ch/qduD
-
 
 <!-- .slide: data-background="#FFFFFF" -->
 
 Note: 
+* trop compliqué avec DirectPoll donc j'affiche et je demande directement, la réponse est dans la diapo **du dessous**
 * Si le lien ne fonctionne plus, il faut recréer un quizz dans un outil de quiz à partir des diapos ci-dessous (et des réponses en note)
 * je pilote depuis ici : https://directpoll.com/c?XDVhEtmqr9K4lWmiTY9ivJe5kCfxZqP
 * pas d'image dans le sondage donc demander de mettre les deux pages cote à cote : partage d'écran et sondage
@@ -423,29 +444,11 @@ Note:
 
 ----
 
-## Question 1
-
-
-![](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/quizCC_1.png)
+![](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/quizCC_1.png)
 
 La licence CC-BY sur un document 
-Note:- [X] permet de le diffuser sans demander d'autorisation
-- [X] oblige à en indiquer les auteurs
-- [X] permet d'en avoir un usage commercial
-- [X] permet de le modifier
-- [ ] oblige à ce que le document modifié ait la même licence
-
-<!-- .slide: data-background="#FFFFFF" -->
-
-----
-
-## Question 2
-
-![CC-BY-NC-ND](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/quizCC_2.png)
-
-La licence CC-BY-NC-ND sur un document 
-Note: - [X] permet de le diffuser sans demander d'autorisation
-- [X] oblige à en indiquer les auteurs
+- [ ] permet de le diffuser sans demander d'autorisation
+- [ ] oblige à en indiquer les auteurs
 - [ ] permet d'en avoir un usage commercial
 - [ ] permet de le modifier
 - [ ] oblige à ce que le document modifié ait la même licence
@@ -454,27 +457,90 @@ Note: - [X] permet de le diffuser sans demander d'autorisation
 
 ----
 
-## Question 3
+![](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/quizCC_1.png)
 
-![CC-BY NC](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/quizCC_3.png)
-
-La licence CC-BY-NC sur un document 
-Note: - [X] permet de le diffuser sans demander d'autorisation
+La licence CC-BY sur un document 
+- [X] permet de le diffuser sans demander d'autorisation
 - [X] oblige à en indiquer les auteurs
-- [ ] permet d'en avoir un usage commercial
+- [X] permet d'en avoir un usage commercial
 - [X] permet de le modifier
+- [ ] ~~oblige à ce que le document modifié ait la même licence~~
+
+<!-- .slide: data-background="#FFFFFF" -->
+
+----
+
+![CC-BY-NC-ND](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/quizCC_2.png)
+
+La licence CC-BY-NC-ND sur un document 
+- [ ] permet de le diffuser sans demander d'autorisation
+- [ ] oblige à en indiquer les auteurs
+- [ ] permet d'en avoir un usage commercial
+- [ ] permet de le modifier
 - [ ] oblige à ce que le document modifié ait la même licence
 
 <!-- .slide: data-background="#FFFFFF" -->
 
 ----
 
-## Question 4
+![CC-BY-NC-ND](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/quizCC_2.png)
 
-![CC BY SA](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/quizCC_4.png)
+La licence CC-BY-NC-ND sur un document 
+Note: 
+- [X] permet de le diffuser sans demander d'autorisation
+- [X] oblige à en indiquer les auteurs
+- [ ] ~~permet d'en avoir un usage commercial~~
+- [ ] ~~permet de le modifier~~
+- [ ] ~~oblige à ce que le document modifié ait la même licence~~
+
+<!-- .slide: data-background="#FFFFFF" -->
+
+----
+
+![CC-BY NC](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/quizCC_3.png)
+
+La licence CC-BY-NC sur un document
+- [ ] permet de le diffuser sans demander d'autorisation
+- [ ] oblige à en indiquer les auteurs
+- [ ] permet d'en avoir un usage commercial
+- [ ] permet de le modifier
+- [ ] oblige à ce que le document modifié ait la même licence
+
+<!-- .slide: data-background="#FFFFFF" -->
+
+----
+
+![CC-BY NC](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/quizCC_3.png)
+
+La licence CC-BY-NC sur un document 
+
+- [X] permet de le diffuser sans demander d'autorisation
+- [X] oblige à en indiquer les auteurs
+- [ ] ~~permet d'en avoir un usage commercial~~
+- [X] permet de le modifier
+- [ ] ~~oblige à ce que le document modifié ait la même licence~~
+
+<!-- .slide: data-background="#FFFFFF" -->
+
+----
+
+![CC BY SA](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/quizCC_4.png)
 
 La licence CC-BY-SA sur un document 
-Note: - [X] permet de le diffuser sans demander d'autorisation
+- [ ] permet de le diffuser sans demander d'autorisation
+- [ ] oblige à en indiquer les auteurs
+- [ ] permet d'en avoir un usage commercial
+- [ ] permet de le modifier
+- [ ] oblige à ce que le document modifié ait la même licence
+
+<!-- .slide: data-background="#FFFFFF" -->
+
+----
+
+![CC BY SA](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/quizCC_4.png)
+
+La licence CC-BY-SA sur un document 
+- [X] permet de le diffuser sans demander d'autorisation
 - [X] oblige à en indiquer les auteurs
 - [X] permet d'en avoir un usage commercial
 - [X] permet de le modifier
@@ -484,14 +550,12 @@ Note: - [X] permet de le diffuser sans demander d'autorisation
 
 ----
 
-## Question 5
-
-![CC BY-ND](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/quizCC_5.png)
+![CC BY-ND](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/quizCC_5.png)
 
 La licence CC-BY-ND sur un document 
-Note: - [X] permet de le diffuser sans demander d'autorisation
-- [X] oblige à en indiquer les auteurs
-- [X] permet d'en avoir un usage commercial
+- [ ] permet de le diffuser sans demander d'autorisation
+- [ ] oblige à en indiquer les auteurs
+- [ ] permet d'en avoir un usage commercial
 - [ ] permet de le modifier
 - [ ] oblige à ce que le document modifié ait la même licence
 
@@ -499,14 +563,38 @@ Note: - [X] permet de le diffuser sans demander d'autorisation
 
 ----
 
-## Question 6
+![CC BY-ND](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/quizCC_5.png)
 
-![CC-BY-NC-SA](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/quizCC_6.png)
+La licence CC-BY-ND sur un document 
+- [X] permet de le diffuser sans demander d'autorisation
+- [X] oblige à en indiquer les auteurs
+- [X] permet d'en avoir un usage commercial
+- [ ] ~~permet de le modifier~~
+- [ ] ~~oblige à ce que le document modifié ait la même licence~~
+
+<!-- .slide: data-background="#FFFFFF" -->
+
+----
+
+![CC-BY-NC-SA](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/quizCC_6.png)
 
 La licence CC-BY-NC-SA sur un document 
-Note: - [X] permet de le diffuser sans demander d'autorisation
-- [X] oblige à en indiquer les auteurs
+- [ ] permet de le diffuser sans demander d'autorisation
+- [ ] oblige à en indiquer les auteurs
 - [ ] permet d'en avoir un usage commercial
+- [ ] permet de le modifier
+- [ ] oblige à ce que le document modifié ait la même licence
+
+<!-- .slide: data-background="#FFFFFF" -->
+
+----
+
+![CC-BY-NC-SA](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/quizCC_6.png)
+
+La licence CC-BY-NC-SA sur un document 
+- [X] permet de le diffuser sans demander d'autorisation
+- [X] oblige à en indiquer les auteurs
+- [ ] ~~permet d'en avoir un usage commercial~~
 - [X] permet de le modifier
 - [X] oblige à ce que le document modifié ait la même licence
 
@@ -517,17 +605,8 @@ Note: - [X] permet de le diffuser sans demander d'autorisation
 
 ### Les 6 licences Creatives commons
 
-![Les différentes licences CC](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/tableau_cc.png)
+![Les différentes licences CC](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/tableau_cc.png)
 
-
-<!-- .slide: data-background="#FFFFFF" -->
-
-Note: les 6 licences classées dans la diapo du dessous
-
-----
-
-### Les 6 licences Creatives commons
-![Les différentes licences CC classées par ordre de liberté](https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/tableau_cc_droit.png =300x)
 
 <!-- .slide: data-background="#FFFFFF" -->
 
@@ -546,7 +625,56 @@ Avantage du logo : lien
 
 ---
 
-## Où trouver gratuitement des documents que je peux utiliser ?
+<div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;">
+
+## Le droit à l'image
+* concerne l'image et la voix
+* reléve de la notion de *respect de la vie privée*
+* besoin d'une autorisation écrite et circonstanciée
+* autorisation des parents pour les mineurs
+
+note: notion de vie privée pas de construction jurique claire (pas reconnu par le législateur)
+- le fait de déposer la photo sur une plateforme (ENT) est assimilé à de la diffusion
+
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/background_droit_image_1generalites.jpg"  data-background-repeat="repeat"  -->
+</div>
+
+---
+
+<div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;">
+
+## Atteintes au droit à l'image
+
+* il doit y avoir diffusion
+* faire la preuve du préjudice  
+ou
+* montrer l'atteinte à la vie privée  
+
+Note: si on prend une image dans espace public mais qu'on ne la diffuse pas, il n'y a pas d'atteinte
+* appréciation du dommage par le juge : domamge et intérêt. Peine uniquement si volonté de nuire
+* corps d'un défunt :plus de droit à l'image mais droit au respect et à la dignité
+
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/background_droit_image_2atteintes.jpg"  data-background-repeat="repeat" data-background-size="800px" -->
+</div>
+
+---
+
+<div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;">
+
+## Exceptions au droit à l'image
+* actualité et droit à l'information
+* personnalités publiques dans le cadre de leurs activités
+* captation dans un lieu public de personnes difficilement reconnaissables
+
+note: actualité : dans la limite du respect de la dignité
+* on ne peut réutiliser une image d'actualité hors actualités
+
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/background_droit_image_3exceptions.jpg"  data-background-repeat="repeat" data-background-size="800px" -->
+</div>
+
+---
+
+## Où trouver des documents que je peux utiliser gratuitement ?
 
 <!-- .slide: data-background="#FFFFFF" -->
 
@@ -556,10 +684,10 @@ Avantage du logo : lien
 
 ### Licences Creatives Commons
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Accueil "Wikimedia Commons")
-* [CC Search](https://search.creativecommons.org/)
+* [Open verse](https://wordpress.org/openverse/?referrer=creativecommons.org) (anc. *CC Search*)
 Note: rechercher en anglais souvent
 
-<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_wikimeda_PmVxad.png"  data-background-repeat="repeat" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/background_wikimeda_PmVxad.png"  data-background-repeat="repeat" -->
 </div>
 
 ---
@@ -572,7 +700,7 @@ Note: rechercher en anglais souvent
 * [Youtube](https://www.youtube.com/ "Youtube")
 Note: illustre souvent un sujet précis, et non pas photo d'illustration...
 
-<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_outils_gene_6xgl69M.jpg"  data-background-repeat="repeat" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/background_outils_gene_6xgl69M.jpg"  data-background-repeat="repeat" -->
 </div>
 
 ---
@@ -584,7 +712,7 @@ Note: illustre souvent un sujet précis, et non pas photo d'illustration...
 * [Unplash](https://unsplash.com/ "Unplash")
 * [Focastock](https://focastock.com/ "Focastock")
 
-<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_banque_image_DP_a9pIiTf.jpg"  data-background-repeat="repeat" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/background_banque_image_DP_a9pIiTf.jpg"  data-background-repeat="repeat" -->
 </div>
 
 ---
@@ -597,8 +725,14 @@ Note: illustre souvent un sujet précis, et non pas photo d'illustration...
 
 Note: documents patrimoniaux
 
-<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_SOS/background_domaine_public_7cRXJor.jpg"  data-background-repeat="repeat" -->
+<!-- .slide: data-background="https://www.lamerguez.com/presentations_GitPich/presentation-droit_auteur_PRF_Grand_Est/background_domaine_public_7cRXJor.jpg"  data-background-repeat="repeat" -->
 </div>
+
+---
+
+## Réponses à vos questions
+
+<!-- .slide: data-background="#355fdd" -->
 
 ---
 
@@ -618,7 +752,7 @@ Note: documents patrimoniaux
 
 ---
 
-## Liens vers les ressources
+## Liens vers les ressources produites par NumEA
 
 * Diaporama : https://view.genial.ly/615d6deab929a10ddbdf5d03
 * Poster horizontal : https://view.genial.ly/61de8d9baaf58b0de15a461b
@@ -628,9 +762,29 @@ Note: documents patrimoniaux
 
 ---
 
-## Réponses à vos questions
+## Ressources pour aller plus loin - Exception pédagogique
+* L'exception pédagogique resumée (mise à jour 2017) : https://f.hypotheses.org/wp-content/blogs.dir/869/files/2019/02/journee_doctorale_15_nov_2017_memo_affiche_droit.pdf
+* L'exception pédagogique expliquée clairement : https://ethiquedroit.hypotheses.org/1485
 
-<!-- .slide: data-background="#355fdd" -->
+<!-- .slide: data-background="#FFFFFF" -->
+
+---
+
+## Ressources pour aller plus loin - Creatives commons
+* Le site de la fondation Creatives Commons : https://creativecommons.org/
+* Lessig, Lawrence / Soufron, Jean-Baptiste / Bony, Alain. *L'avenir des idées : le sort des biens communs à l'heure des réseaux numériques*. [Livre]. Presses universitaires de Lyon, 2005. 414 p. ; 21 cm. 
+
+<!-- .slide: data-background="#FFFFFF" -->
+
+---
+
+## Ressources pour aller plus loin - Creatives commons
+
+*  Un diaporama à destination des enfants, pour évoquer les  problèmes de droits d'auteur et de Creatives Commons sans passer par le sempiternel : *Vous n'avez pas le droit de ..*
+https://wiki.creativecommons.org/wiki/Sharing_Creative_Works
+- Une proposition de traduction de ce diaporama : https://framablog.org/2008/03/11/education-b2i-creative-commons/
+
+<!-- .slide: data-background="#FFFFFF" -->
 
 ---
 
@@ -645,6 +799,7 @@ Note: documents patrimoniaux
 
 ----
 
+## Crédits
 * People by Katie White - Licence Pixabay
 * Tous les logos Creatives Commons sont sous CC-BY-SA 4.0 Fondation Creatives Commons
 * Les 6 licences Creatives Commons - Fondation Creatives Commons - CC BY SA
@@ -654,6 +809,16 @@ Note: documents patrimoniaux
 
 ----
 
+## Crédits
+* La foule devant le musée d'Orsay par Jean-Pierre Dalbéra sur Flickr - CC BY-SA 2.0
+* Bratislava Bronze Paparazzo par Benmil222 sur Wikimedia Commons - CC BY-SA
+* Emmanuel Macron au congrès des maires de France par Jacques Paquier sur Flickr - CC BY 2.0
+
+<!-- .slide: data-background="#FFFFFF" -->
+
+----
+
+## Crédits
 * Capture d'écran Wikimedia Commons - CC BY SA Wikimedia 
 * Capture d'écran Flickr - Tous droits réservés
 * Capture d'écran Pixabay - Tous droits réservés
